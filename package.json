@@ -1,0 +1,19 @@
+{
+  "name": "testcafetraining",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "htmlRun": "testcafe chrome C:/Users/sana.khan/Documents/TestcafeTraining/e2e-Automation/Tests/Hover.js -e --reporter html:report/htmlReport/TestPom.html"
+  },
+  "author": "Sana Khan",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "testcafe": "^2.4.0",
+    "testcafe-reporter-html": "^1.4.6"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0"
+  }
+}

@@ -1,0 +1,37 @@
+[
+
+    {
+        "FirstName" : "Sana",
+        "LastName"  : "khan",
+        "Email"     : "sanakhan@gmail.com",
+        "Gender"    : "[for='gender-radio-1']",
+        "Mobile"    : "12345678",
+        "Subjects"  : "English",
+        "Hobbies"   : "[for='hobbies-checkbox-1']",
+        "CurrentAddress" : "ABC street"
+
+    },
+
+    {
+        "FirstName" : "Ayesha",
+        "LastName"  : "Shabbir",
+        "Email"     : "ayeshashabbir@gmail.com",
+        "Gender"    : "[for='gender-radio-1']",
+        "Mobile"    : "123456789",
+        "Subjects"  : "AI",
+        "Hobbies"   : "[for='hobbies-checkbox-1']",
+        "CurrentAddress" : "XYZ Street"
+
+    },
+    {
+        "FirstName" : "Mehreen",
+        "LastName"  : "Ali",
+        "Email"     : "mehreenali@gmail.com",
+        "Gender"    : "[for='gender-radio-1']",
+        "Mobile"    : "0123456789",
+        "Subjects"  : "Science",
+        "Hobbies"   : "[for='hobbies-checkbox-1']",
+        "CurrentAddress" : "QRST Street"
+
+    }
+]
